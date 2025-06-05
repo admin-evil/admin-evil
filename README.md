@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, ich bin Ben
 
-<!--
-**admin-evil/admin-evil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil!  
+Ich bin ein motivierter Anfänger in Python und arbeite an coolen kleinen Projekten wie Passwortgeneratoren.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projekte
+
+- 🔐 [password-generator](https://github.com/AdminEvil1/password-generator) – Mein erstes Python-Projekt mit Eingabe, Sonderzeichen und Auswahl
+- 📚 Weitere folgen hoffentlich bald...
+
+---
+
+## 🛠️ Skills (bisher)
+
+- Python (Grundlagen)
+- Git / GitHub
+- VS Code
+
+---
+
+## 📫 Kontakt
+
+> Aktuell nur über GitHub erreichbar – feel free to follow me!

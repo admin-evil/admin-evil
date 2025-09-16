@@ -9,7 +9,7 @@ Ich bin ein motivierter Anfänger in Python und arbeite an coolen kleinen Projek
 
 - 🔐 [password-generator](https://github.com/AdminEvil1/password-generator) – Mein erstes Python-Projekt mit Eingabe, Sonderzeichen und Auswahl
 - 🦸‍♂️ [password-checker](https://github.com/admin-evil/password_checker) - Mein zweites Python Projekt damit du
-deine Passowrt Stärke überprüfen kannst
+deine Passwort Stärke überprüfen kannst
 - 📚 Weitere folgen hoffentlich bald...
 
 ---
